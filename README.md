@@ -4,7 +4,7 @@
 - 🌱 Estudando Javascript,Reactjs
 - 📫 Contante-me no email: contatoeduardosilvaxl@gmail.com
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: row;">
   <a href="https://github.com/eduardosilvaxl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardosilvaxl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosilvaxl&layout=compact&langs_count=7&theme=dark"/>
