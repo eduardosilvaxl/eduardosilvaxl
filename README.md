@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando Javascript,Reactjs
-- 📫 Contante-me no email: contatoeduardosilvaxl@gmail.com
+- 📫 Contante-me no email: eduardoasilvavicentee@gmail.com
 
 <div align="center">
   <a href="https://github.com/eduardosilvaxl">
