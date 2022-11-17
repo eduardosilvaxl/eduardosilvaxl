@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou Eduardo Silva</h1>
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Javascript,Reactjs
+- 🌱 Estudando Javascript, Reactjs, firebase
 - 📫 Contante-me no email: eduardoasilvavicentee@gmail.com
 
 <div align="center">
@@ -17,7 +17,7 @@
   ##
   
   <div>
-    <a href="https://www.youtube.com/channel/UCdbcfJNNXX9YzfBJj16nvdQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/@eduardosilvaxl" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.facebook.com/profile.php?id=100071677004757" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="http://instagram.com/eududuuofc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardosilvaxl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
