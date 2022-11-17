@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou Eduardo Silva</h1>
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Javascript, Reactjs, firebase
+- 🌱 Estudando JavaScript, ReactJS, Firebase
 - 📫 Contante-me no email: eduardoasilvavicentee@gmail.com
 
 <div align="center">
